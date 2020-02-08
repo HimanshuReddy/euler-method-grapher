@@ -1,0 +1,21 @@
+form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+input {
+    height: 20px;
+    border-color: rgb(219, 219, 219);
+    border-radius: 15px;
+}
+
+p {
+    text-align: center;
+}
+
+.chart-container {
+    width: 600px;
+    margin: auto;
+}
